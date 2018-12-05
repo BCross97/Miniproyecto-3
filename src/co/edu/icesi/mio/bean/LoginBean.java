@@ -1,4 +1,4 @@
-package co.edu.icesi.mio.model;
+package co.edu.icesi.mio.bean;
 
 import java.io.IOException;
 import java.io.Serializable;
